@@ -6,7 +6,7 @@
 
 # Installation of the off-chain interpreter
 
-These instructions were tested on Ubuntu 17.04.
+These instructions were tested on Ubuntu 16.04.
 
 First install dependencies
 ```
