@@ -13,7 +13,7 @@ First install dependencies
 apt-get install -y wget gcc ocaml opam libzarith-ocaml-dev m4 pkg-config zlib1g-dev
 opam init -y
 eval $(opam config env)
-opam install cryptokit yojson
+opam install cryptokit yojson ctypes ctypes-foreign
 ```
 
 Then go to the `interpreter` directory of the repo
